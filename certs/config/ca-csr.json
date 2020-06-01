@@ -1,6 +1,6 @@
 {
   "hosts": [
-    "cluster.local"
+    "k8slocal"
   ],
   "key": {
     "algo": "rsa",
